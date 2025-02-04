@@ -1,7 +1,7 @@
 # Barry-Burke
 
 👋 Hi, I'm Barry Burke!  
-🚀 Aspiring Data Analyst | Blockchain Enthusiast  
+🚀 Data Analyst | Blockchain Enthusiast  
 
 🔍 Passionate about data-driven decision-making, statistical analysis, and blockchain technology.  
 📊 Skilled in SQL, Python (Pandas, NumPy, Matplotlib), Power BI, and Tableau.  
